@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blink Timer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blink_Timer_jar</output-path>
+    <root id="archive" name="Blink Timer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Blink Timer" />
+    </root>
+  </artifact>
+</component>
